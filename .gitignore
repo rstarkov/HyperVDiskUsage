@@ -1,0 +1,11 @@
+*.csproj.user
+*.sln.cache
+*.suo
+bin
+obj
+Builds
+*.orig
+packages
+.vs
+*.psess
+*.vspx
